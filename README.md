@@ -12,15 +12,17 @@
   <li> For an extra spark, I added a custom favicon to my website </li>
   </ul>
 
-<h2> Website <h2>
+<h2> Website </h2>
   <hr>
-<p> Below you will find the deployed website of my Portfolio. </p>
+  
+<p> Below you will find the deployed website of my Portfolio: </p>
  
 
   
-  <h2> Preview <h2>
+  <h2> Preview </h2>
     <hr>
-  <p> Below, you will find a preview of what my portfolio looks like on desktop and Mobile Devices </p>
+    
+  <p> Below, you will find a preview of what my portfolio looks like on Desktop and Mobile Devices: </p>
     <h3> Mobile Version </h3>
     
  ![mobile version](https://user-images.githubusercontent.com/99054758/163592752-c10494ad-35e1-425d-8c10-1bb5ffca4375.jpeg)
