@@ -284,12 +284,12 @@ overflow: auto;
    .works{
       margin: -400px auto 500px;
   }
-  .container {
-      
-      margin-top: -50%;
+  
+ .container {
+      margin-bottom: 20%;
+      position: relative;
   }
 
- 
   .txt-block1,.txt-block2, .txt-block3, .txt-block4, .txt-block5, .txt-block6{
     display: block;
     margin: 0%;
