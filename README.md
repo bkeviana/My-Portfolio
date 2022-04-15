@@ -1,5 +1,5 @@
 <h1> My-Portfolio: Hire Me </h1> 
-<p> In this repository, you will find my very first made from scratch portfolio created with only HTML and CSS. </p>
+<p> In this repository, you will see that I created my very first made from scratch portfolio with only HTML and CSS languages. </p>
 <p> Here's a liitle insight of my portfolio. </p>
 <ul>
   <li> First, I created a responsive navbar, that turns into the hamburger icon on smaller devices. </li>
